@@ -2,14 +2,14 @@
 
 # 👋 Xin chào, mình là Sáng
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Lập+Trình+Viên+Tự+Do;Đam+Mê+Phát+Triển+Web;Luôn+Học+Hỏi+Và+Sáng+Tạo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Lập+Trình+Viên+Tự+Do;Đam+Mê+Phát+Triển+Web;Luôn+Học+Hỏi+Và+Sáng+Tạo&center=true&width=500&height=50&color=00D9FF&vCenter=true&size=24" alt="Typing SVG" />
 
 <p>
   <a href="https://sang0023.io.vn">
     <img src="https://img.shields.io/badge/🌐_Website-sang0023.io.vn-00D9FF?style=for-the-badge&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://www.facebook.com/sang0023">
-    <img src="https://img.shields.io/badge/Facebook-@sang0023-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://www.facebook.com/sangdeptryk7">
+    <img src="https://img.shields.io/badge/Facebook-@sangdeptryk7-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://github.com/sangnekk">
     <img src="https://img.shields.io/github/followers/sangnekk?label=Followers&style=for-the-badge&color=00D9FF&logo=github" alt="GitHub Followers"/>
@@ -149,7 +149,7 @@ const sang = {
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-Visit_Me-00D9FF?style=for-the-badge)](https://sangnguyen07.io.vn)
+[![Website](https://img.shields.io/badge/🌐_Website-Visit_Me-00D9FF?style=for-the-badge)](https://sang0023.io.vn)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sangdeptryk7)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangnekk)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/920508073423028274)
