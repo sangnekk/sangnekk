@@ -8,7 +8,7 @@
   <a href="https://sang0023.io.vn">
     <img src="https://img.shields.io/badge/🌐_Website-sang0023.io.vn-00D9FF?style=for-the-badge&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://www.facebook.com/sangdeptryk7">
+  <a href="https://www.facebook.com/sang0023">
     <img src="https://img.shields.io/badge/Facebook-@sangdeptryk7-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://github.com/sangnekk">
