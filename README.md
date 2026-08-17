@@ -1,131 +1,98 @@
+<!-- Bắt đầu README -->
 <div align="center">
 
-# 👋 Xin chào, mình là Sáng
+# 🌟 Hi there, I'm Sáng (sangnekk) 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Lập+Trình+Viên+Tự+Do;Đam+Mê+Phát+Triển+Web;Luôn+Học+Hỏi+Và+Sáng+Tạo&center=true&width=500&height=50&color=00D9FF&vCenter=true&size=24" alt="Typing SVG" />
+<a href="https://sang0023.io.vn">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Lập+Trình+Viên+Tự+Do;Đam+Mê+Phát+Triển+Web;Luôn+Học+Hỏi+Và+Sáng+Tạo&center=true&width=500&height=50&color=00D9FF&vCenter=true&size=24&font=Fira+Code" alt="Typing SVG" />
+</a>
 
-<p>
+<p align="center">
   <a href="https://sang0023.io.vn">
-    <img src="https://img.shields.io/badge/🌐_Website-sang0023.io.vn-00D9FF?style=for-the-badge&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/🌐_Website-sang0023.io.vn-000000?style=for-the-badge&logoColor=white&color=00D9FF&labelColor=1F2328" alt="Website"/>
   </a>
   <a href="https://www.facebook.com/sangdeptryk7">
-    <img src="https://img.shields.io/badge/Facebook-@sangdeptryk7-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-@sangdeptryk7-000000?style=for-the-badge&logo=facebook&logoColor=white&color=0866FF&labelColor=1F2328" alt="Facebook"/>
   </a>
   <a href="https://github.com/sangnekk">
-    <img src="https://img.shields.io/github/followers/sangnekk?label=Followers&style=for-the-badge&color=00D9FF&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/sangnekk?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1F2328&logo=github" alt="GitHub Followers"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sangnekk&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=sangnekk&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=1F2328" alt="Profile Views" />
 
 </div>
 
----
+<br/>
 
-## 🚀 Về Mình
+## 🚀 About Me
 
 ```typescript
 const sang = {
     role: "Full-Stack Developer",
     location: "Vietnam 🇻🇳",
-    currentFocus: "Web Development & Cloud Technologies",
-    learning: ["TypeScript", "React", "Next.js", "Python"],
-    hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
-    motto: "Code with passion, build with purpose ⚡"
+    focus: "Web Dev & Cloud",
+    learning: ["TypeScript", "Next.js"],
+    motto: "Code with passion ⚡"
 };
 ```
 
-<div align="center">
-
 ### 💡 Hiện Tại
+- 🔭 Đang nghiên cứu về **Full-Stack Web Development**
+- 🌱 Học tập không ngừng về **Modern JavaScript Frameworks**
+- ⚡ Đam mê **Clean Code** và **Best Practices**
+- 🎯 Mục tiêu 2025: Trở thành **Senior Developer**
 
-🔭 Đang nghiên cứu về **Full-Stack Web Development**  
-🌱 Học tập không ngừng về **Modern JavaScript Frameworks**  
-⚡ Đam mê **Clean Code** và **Best Practices**  
-🎯 Mục tiêu 2025: Trở thành **Senior Developer**
-
-</div>
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### 💻 Ngôn Ngữ Lập Trình
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools & Others
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python&perline=5" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,mongodb&perline=5" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" />
+  </a>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangnekk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sangnekk&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sangnekk&show_icons=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangnekk&theme=dark&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangnekk&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangnekk&layout=compact&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" width="60%" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sangnekk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangnekk&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%">
-</div>
-
----
+<br/>
 
 ## 🎮 Discord Profile
 
 <div align="center">
-
-![Discord](https://img.shields.io/badge/Discord-sang0023-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
+  
 <table>
   <tr>
     <td align="center" width="160px">
-      <img width="120" height="120" src="https://cdn.discordapp.com/avatars/920508073423028274/4810e17212ad70d83e36b63ac0a4b30d.webp" style="border-radius: 50%;">
+      <img width="120" height="120" src="https://cdn.discordapp.com/avatars/920508073423028274/4810e17212ad70d83e36b63ac0a4b30d.webp">
       <br><br>
-      <img src="https://img.shields.io/badge/🔴_Online-success?style=flat-square" alt="Status">
+      <img src="https://img.shields.io/badge/--23a55a?style=flat-square&border-radius=50%" alt="Online">
+      <br>
+      <img src="https://img.shields.io/badge/Discord-sang0023-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </td>
-    <td align="left" style="padding-left: 20px;">
-      <h3>🎯 Sáng <code>#sang0023</code></h3>
+    <td align="left" width="400px">
+      <h2>Sáng <code>#sang0023</code></h2>
       <p>
         <img src="https://img.shields.io/badge/👑_Owner-e91e63?style=flat-square" alt="Role">
         <img src="https://img.shields.io/badge/🏠_HypeSquad-7289da?style=flat-square" alt="HypeSquad">
@@ -143,35 +110,21 @@ const sang = {
 
 </div>
 
----
+<br/>
 
-## 💬 Kết Nối Với Mình
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_Website-Visit_Me-00D9FF?style=for-the-badge)](https://sang0023.io.vn)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sangdeptryk7)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangnekk)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/920508073423028274)
-
-</div>
-
----
+## 💭 Activity & Quotes
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&text_color=00D9FF" />
+</div>
 
-### 💭 Quote of the Day
+<br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
-
-**[⬆ Trở về đầu trang](#-xin-chào-mình-là-sáng)**
-
-<sub>Made with ❤️ by Sáng | Last updated: Auto-sync from API</sub>
+<div align="center">
+  
+**[⬆ Lên đầu trang](#-hi-there-im-sáng-sangnekk-)**
+  
+<sub>Made with ❤️ by Sáng | Styled for dark mode ✨</sub>
 
 </div>
+<!-- Kết thúc README -->
